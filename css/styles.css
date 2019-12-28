@@ -1,0 +1,11 @@
+* {
+    /* outline: 1px dotted red; */
+    vertical-align: top;
+    margin: 20px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    display: block;
+}
