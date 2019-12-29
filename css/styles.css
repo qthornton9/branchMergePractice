@@ -1,11 +1,24 @@
 * {
     /* outline: 1px dotted red; */
+    box-sizing: border-box;
     vertical-align: top;
-    margin: 20px;
+    margin: 3px auto;
+    color: blanchedalmond;
+    width: 814px;
+    padding: 5px;
+}
+
+#wrapper {
+    background-color: black;
+}
+
+h1, p {
+    width: auto;
 }
 
 img {
+    padding: 0px;
     width: 400px;
     height: 300px;
-    display: block;
+    border: 2px solid lightslategray;
 }
